@@ -1,0 +1,2638 @@
+{
+  "version": "1.0.4",
+  "metadata": {},
+  "collections": [
+    {
+      "name": "Primitives",
+      "modes": [
+        {
+          "name": "Value",
+          "variables": [
+            {
+              "name": "color/brand/brand-50",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FEFBE9"
+            },
+            {
+              "name": "size/size-4xs-1",
+              "type": "number",
+              "isAlias": false,
+              "value": 1
+            },
+            {
+              "name": "size/size-3xs-2",
+              "type": "number",
+              "isAlias": false,
+              "value": 2
+            },
+            {
+              "name": "size/size-2xs-4",
+              "type": "number",
+              "isAlias": false,
+              "value": 4
+            },
+            {
+              "name": "size/size-xs-6",
+              "type": "number",
+              "isAlias": false,
+              "value": 6
+            },
+            {
+              "name": "size/size-sm-8",
+              "type": "number",
+              "isAlias": false,
+              "value": 8
+            },
+            {
+              "name": "size/size-md-12",
+              "type": "number",
+              "isAlias": false,
+              "value": 12
+            },
+            {
+              "name": "size/size-md-14",
+              "type": "number",
+              "isAlias": false,
+              "value": 14
+            },
+            {
+              "name": "size/size-lg-16",
+              "type": "number",
+              "isAlias": false,
+              "value": 16
+            },
+            {
+              "name": "size/size-lg-18",
+              "type": "number",
+              "isAlias": false,
+              "value": 18
+            },
+            {
+              "name": "size/size-xl-20",
+              "type": "number",
+              "isAlias": false,
+              "value": 20
+            },
+            {
+              "name": "size/size-2xl-24",
+              "type": "number",
+              "isAlias": false,
+              "value": 24
+            },
+            {
+              "name": "size/size-2xl-28",
+              "type": "number",
+              "isAlias": false,
+              "value": 28
+            },
+            {
+              "name": "size/size-3xl-32",
+              "type": "number",
+              "isAlias": false,
+              "value": 32
+            },
+            {
+              "name": "size/size-4xl-36",
+              "type": "number",
+              "isAlias": false,
+              "value": 36
+            },
+            {
+              "name": "size/size-5xl-40",
+              "type": "number",
+              "isAlias": false,
+              "value": 40
+            },
+            {
+              "name": "size/size-6xl-48",
+              "type": "number",
+              "isAlias": false,
+              "value": 48
+            },
+            {
+              "name": "size/size-7xl-54",
+              "type": "number",
+              "isAlias": false,
+              "value": 54
+            },
+            {
+              "name": "size/size-8xl-64",
+              "type": "number",
+              "isAlias": false,
+              "value": 64
+            },
+            {
+              "name": "size/size-9xl-80",
+              "type": "number",
+              "isAlias": false,
+              "value": 80
+            },
+            {
+              "name": "size/size-10xl-96",
+              "type": "number",
+              "isAlias": false,
+              "value": 96
+            },
+            {
+              "name": "size/size-11xl-128",
+              "type": "number",
+              "isAlias": false,
+              "value": 128
+            },
+            {
+              "name": "color/navygray/navygray-50",
+              "type": "color",
+              "isAlias": false,
+              "value": "#F7F9FD"
+            },
+            {
+              "name": "color/navygray/navygray-100",
+              "type": "color",
+              "isAlias": false,
+              "value": "#EDF1FA"
+            },
+            {
+              "name": "color/navygray/navygray-200",
+              "type": "color",
+              "isAlias": false,
+              "value": "#E4E9F6"
+            },
+            {
+              "name": "color/navygray/navygray-300",
+              "type": "color",
+              "isAlias": false,
+              "value": "#D9E0F2"
+            },
+            {
+              "name": "color/navygray/navygray-400",
+              "type": "color",
+              "isAlias": false,
+              "value": "#CED6EC"
+            },
+            {
+              "name": "color/navygray/navygray-500",
+              "type": "color",
+              "isAlias": false,
+              "value": "#BFC9E5"
+            },
+            {
+              "name": "color/navygray/navygray-600",
+              "type": "color",
+              "isAlias": false,
+              "value": "#A6B3DA"
+            },
+            {
+              "name": "color/navygray/navygray-700",
+              "type": "color",
+              "isAlias": false,
+              "value": "#4B5470"
+            },
+            {
+              "name": "color/navygray/navygray-800",
+              "type": "color",
+              "isAlias": false,
+              "value": "#343E5A"
+            },
+            {
+              "name": "color/navygray/navygray-900",
+              "type": "color",
+              "isAlias": false,
+              "value": "#1C243D"
+            },
+            {
+              "name": "color/navygray/navygray-1000",
+              "type": "color",
+              "isAlias": false,
+              "value": "#12162E"
+            },
+            {
+              "name": "color/brand/brand-100",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FFF7DC"
+            },
+            {
+              "name": "color/brand/brand-200",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FFEAA1"
+            },
+            {
+              "name": "color/brand/brand-300",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FFE794"
+            },
+            {
+              "name": "color/brand/brand-400",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FFD43B"
+            },
+            {
+              "name": "color/brand/brand-500",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FFC211"
+            },
+            {
+              "name": "color/brand/brand-600",
+              "type": "color",
+              "isAlias": false,
+              "value": "#D99D04"
+            },
+            {
+              "name": "color/brand/brand-700",
+              "type": "color",
+              "isAlias": false,
+              "value": "#B37A00"
+            },
+            {
+              "name": "color/brand/brand-800",
+              "type": "color",
+              "isAlias": false,
+              "value": "#8C5B00"
+            },
+            {
+              "name": "color/brand/brand-900",
+              "type": "color",
+              "isAlias": false,
+              "value": "#663F00"
+            },
+            {
+              "name": "color/brand/brand-1000",
+              "type": "color",
+              "isAlias": false,
+              "value": "#3A2400"
+            },
+            {
+              "name": "color/gray/gray-50",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FAFCFF"
+            },
+            {
+              "name": "color/gray/gray-100",
+              "type": "color",
+              "isAlias": false,
+              "value": "#EFF4FB"
+            },
+            {
+              "name": "color/gray/gray-200",
+              "type": "color",
+              "isAlias": false,
+              "value": "#E1E9F8"
+            },
+            {
+              "name": "color/gray/gray-300",
+              "type": "color",
+              "isAlias": false,
+              "value": "#C9D4EA"
+            },
+            {
+              "name": "color/gray/gray-400",
+              "type": "color",
+              "isAlias": false,
+              "value": "#B0BBD5"
+            },
+            {
+              "name": "color/gray/gray-500",
+              "type": "color",
+              "isAlias": false,
+              "value": "#8F9BBA"
+            },
+            {
+              "name": "color/gray/gray-600",
+              "type": "color",
+              "isAlias": false,
+              "value": "#68769F"
+            },
+            {
+              "name": "color/gray/gray-700",
+              "type": "color",
+              "isAlias": false,
+              "value": "#485585"
+            },
+            {
+              "name": "color/gray/gray-800",
+              "type": "color",
+              "isAlias": false,
+              "value": "#2D396B"
+            },
+            {
+              "name": "color/gray/gray-900",
+              "type": "color",
+              "isAlias": false,
+              "value": "#1B2559"
+            },
+            {
+              "name": "color/gray/gray-1000",
+              "type": "color",
+              "isAlias": false,
+              "value": "#141A38"
+            },
+            {
+              "name": "color/black/black-50",
+              "type": "color",
+              "isAlias": false,
+              "value": "#0000000D"
+            },
+            {
+              "name": "color/white/white-50",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FFFFFF0D"
+            },
+            {
+              "name": "color/white/white-100",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FFFFFF1A"
+            },
+            {
+              "name": "color/white/white-200",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FFFFFF26"
+            },
+            {
+              "name": "color/black/black-100",
+              "type": "color",
+              "isAlias": false,
+              "value": "#0000001A"
+            },
+            {
+              "name": "color/white/white-300",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FFFFFF4D"
+            },
+            {
+              "name": "color/white/white-400",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FFFFFF66"
+            },
+            {
+              "name": "color/white/white-500",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FFFFFF80"
+            },
+            {
+              "name": "color/white/white-600",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FFFFFF99"
+            },
+            {
+              "name": "color/white/white-700",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FFFFFFB3"
+            },
+            {
+              "name": "color/white/white-800",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FFFFFFCC"
+            },
+            {
+              "name": "color/white/white-900",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FFFFFFE6"
+            },
+            {
+              "name": "color/white/white-1000",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FFFFFF"
+            },
+            {
+              "name": "color/black/black-150",
+              "type": "color",
+              "isAlias": false,
+              "value": "#00000026"
+            },
+            {
+              "name": "color/black/black-200",
+              "type": "color",
+              "isAlias": false,
+              "value": "#00000033"
+            },
+            {
+              "name": "color/black/black-300",
+              "type": "color",
+              "isAlias": false,
+              "value": "#0000004D"
+            },
+            {
+              "name": "color/black/black-400",
+              "type": "color",
+              "isAlias": false,
+              "value": "#00000066"
+            },
+            {
+              "name": "color/black/black-500",
+              "type": "color",
+              "isAlias": false,
+              "value": "#00000080"
+            },
+            {
+              "name": "color/black/black-600",
+              "type": "color",
+              "isAlias": false,
+              "value": "#00000099"
+            },
+            {
+              "name": "color/black/black-700",
+              "type": "color",
+              "isAlias": false,
+              "value": "#000000B3"
+            },
+            {
+              "name": "color/black/black-800",
+              "type": "color",
+              "isAlias": false,
+              "value": "#000000CC"
+            },
+            {
+              "name": "color/black/black-900",
+              "type": "color",
+              "isAlias": false,
+              "value": "#000000E6"
+            },
+            {
+              "name": "color/black/black-1000",
+              "type": "color",
+              "isAlias": false,
+              "value": "#000000F2"
+            },
+            {
+              "name": "color/overlay/overlay-50",
+              "type": "color",
+              "isAlias": false,
+              "value": "#1B25590A"
+            },
+            {
+              "name": "color/overlay/overlay-100",
+              "type": "color",
+              "isAlias": false,
+              "value": "#1B255914"
+            },
+            {
+              "name": "color/overlay/overlay-200",
+              "type": "color",
+              "isAlias": false,
+              "value": "#1B25591F"
+            },
+            {
+              "name": "color/overlay/overlay-300",
+              "type": "color",
+              "isAlias": false,
+              "value": "#1B255929"
+            },
+            {
+              "name": "color/overlay/overlay-400",
+              "type": "color",
+              "isAlias": false,
+              "value": "#1B255933"
+            },
+            {
+              "name": "color/overlay/overlay-500",
+              "type": "color",
+              "isAlias": false,
+              "value": "#1B255952"
+            },
+            {
+              "name": "color/purple/purple-50",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FAF8FF"
+            },
+            {
+              "name": "color/purple/purple-100",
+              "type": "color",
+              "isAlias": false,
+              "value": "#F4EDFF"
+            },
+            {
+              "name": "color/purple/purple-200",
+              "type": "color",
+              "isAlias": false,
+              "value": "#E0C8FF"
+            },
+            {
+              "name": "color/purple/purple-300",
+              "type": "color",
+              "isAlias": false,
+              "value": "#C9ACFF"
+            },
+            {
+              "name": "color/purple/purple-400",
+              "type": "color",
+              "isAlias": false,
+              "value": "#B78EFF"
+            },
+            {
+              "name": "color/purple/purple-500",
+              "type": "color",
+              "isAlias": false,
+              "value": "#9747FF"
+            },
+            {
+              "name": "color/purple/purple-600",
+              "type": "color",
+              "isAlias": false,
+              "value": "#893BEB"
+            },
+            {
+              "name": "color/purple/purple-700",
+              "type": "color",
+              "isAlias": false,
+              "value": "#6613D2"
+            },
+            {
+              "name": "color/purple/purple-800",
+              "type": "color",
+              "isAlias": false,
+              "value": "#530FAC"
+            },
+            {
+              "name": "color/purple/purple-900",
+              "type": "color",
+              "isAlias": false,
+              "value": "#401274"
+            },
+            {
+              "name": "color/orange/orange-50",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FFF6F1"
+            },
+            {
+              "name": "color/orange/orange-100",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FFEBE0"
+            },
+            {
+              "name": "color/orange/orange-200",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FFC7A7"
+            },
+            {
+              "name": "color/orange/orange-300",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FFBC99"
+            },
+            {
+              "name": "color/orange/orange-400",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FF965B"
+            },
+            {
+              "name": "color/orange/orange-500",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FF7A2F"
+            },
+            {
+              "name": "color/orange/orange-600",
+              "type": "color",
+              "isAlias": false,
+              "value": "#E65C0E"
+            },
+            {
+              "name": "color/orange/orange-700",
+              "type": "color",
+              "isAlias": false,
+              "value": "#D0540D"
+            },
+            {
+              "name": "color/orange/orange-800",
+              "type": "color",
+              "isAlias": false,
+              "value": "#BA5003"
+            },
+            {
+              "name": "color/orange/orange-900",
+              "type": "color",
+              "isAlias": false,
+              "value": "#572E1A"
+            },
+            {
+              "name": "color/red/red-50",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FFF8F6"
+            },
+            {
+              "name": "color/red/red-100",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FFEAE7"
+            },
+            {
+              "name": "color/red/red-200",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FFD1D7"
+            },
+            {
+              "name": "color/red/red-300",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FFB1BB"
+            },
+            {
+              "name": "color/red/red-400",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FC8595"
+            },
+            {
+              "name": "color/red/red-500",
+              "type": "color",
+              "isAlias": false,
+              "value": "#E31A1A"
+            },
+            {
+              "name": "color/red/red-600",
+              "type": "color",
+              "isAlias": false,
+              "value": "#D30001"
+            },
+            {
+              "name": "color/red/red-700",
+              "type": "color",
+              "isAlias": false,
+              "value": "#B9030C"
+            },
+            {
+              "name": "color/red/red-800",
+              "type": "color",
+              "isAlias": false,
+              "value": "#7F072F"
+            },
+            {
+              "name": "color/red/red-900",
+              "type": "color",
+              "isAlias": false,
+              "value": "#651B16"
+            },
+            {
+              "name": "color/pink/pink-50",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FEF7F9"
+            },
+            {
+              "name": "color/pink/pink-100",
+              "type": "color",
+              "isAlias": false,
+              "value": "#FEECFA"
+            },
+            {
+              "name": "color/pink/pink-200",
+              "type": "color",
+              "isAlias": false,
+              "value": "#F6C7E6"
+            },
+            {
+              "name": "color/pink/pink-300",
+              "type": "color",
+              "isAlias": false,
+              "value": "#F4A9DA"
+            },
+            {
+              "name": "color/pink/pink-400",
+              "type": "color",
+              "isAlias": false,
+              "value": "#F275C7"
+            },
+            {
+              "name": "color/pink/pink-500",
+              "type": "color",
+              "isAlias": false,
+              "value": "#F04396"
+            },
+            {
+              "name": "color/pink/pink-600",
+              "type": "color",
+              "isAlias": false,
+              "value": "#C91A77"
+            },
+            {
+              "name": "color/pink/pink-700",
+              "type": "color",
+              "isAlias": false,
+              "value": "#AF005E"
+            },
+            {
+              "name": "color/pink/pink-800",
+              "type": "color",
+              "isAlias": false,
+              "value": "#990052"
+            },
+            {
+              "name": "color/pink/pink-900",
+              "type": "color",
+              "isAlias": false,
+              "value": "#7A0058"
+            },
+            {
+              "name": "color/green/green-50",
+              "type": "color",
+              "isAlias": false,
+              "value": "#EDFFF8"
+            },
+            {
+              "name": "color/green/green-100",
+              "type": "color",
+              "isAlias": false,
+              "value": "#EDFFF8"
+            },
+            {
+              "name": "color/green/green-200",
+              "type": "color",
+              "isAlias": false,
+              "value": "#B9F2D9"
+            },
+            {
+              "name": "color/green/green-300",
+              "type": "color",
+              "isAlias": false,
+              "value": "#76CEA5"
+            },
+            {
+              "name": "color/green/green-400",
+              "type": "color",
+              "isAlias": false,
+              "value": "#46B581"
+            },
+            {
+              "name": "color/green/green-500",
+              "type": "color",
+              "isAlias": false,
+              "value": "#30A46C"
+            },
+            {
+              "name": "color/green/green-600",
+              "type": "color",
+              "isAlias": false,
+              "value": "#2B9A66"
+            },
+            {
+              "name": "color/green/green-700",
+              "type": "color",
+              "isAlias": false,
+              "value": "#218358"
+            },
+            {
+              "name": "color/green/green-800",
+              "type": "color",
+              "isAlias": false,
+              "value": "#166442"
+            },
+            {
+              "name": "color/green/green-900",
+              "type": "color",
+              "isAlias": false,
+              "value": "#193B2D"
+            },
+            {
+              "name": "color/blue/blue-50",
+              "type": "color",
+              "isAlias": false,
+              "value": "#E5F8FF"
+            },
+            {
+              "name": "color/blue/blue-100",
+              "type": "color",
+              "isAlias": false,
+              "value": "#E5F8FF"
+            },
+            {
+              "name": "color/blue/blue-200",
+              "type": "color",
+              "isAlias": false,
+              "value": "#B2EBFF"
+            },
+            {
+              "name": "color/blue/blue-300",
+              "type": "color",
+              "isAlias": false,
+              "value": "#90DCF7"
+            },
+            {
+              "name": "color/blue/blue-400",
+              "type": "color",
+              "isAlias": false,
+              "value": "#66D1F7"
+            },
+            {
+              "name": "color/blue/blue-500",
+              "type": "color",
+              "isAlias": false,
+              "value": "#00BEFF"
+            },
+            {
+              "name": "color/blue/blue-600",
+              "type": "color",
+              "isAlias": false,
+              "value": "#088AD3"
+            },
+            {
+              "name": "color/blue/blue-700",
+              "type": "color",
+              "isAlias": false,
+              "value": "#047ABC"
+            },
+            {
+              "name": "color/blue/blue-800",
+              "type": "color",
+              "isAlias": false,
+              "value": "#00517E"
+            },
+            {
+              "name": "color/blue/blue-900",
+              "type": "color",
+              "isAlias": false,
+              "value": "#003857"
+            },
+            {
+              "name": "color/mint/mint-50",
+              "type": "color",
+              "isAlias": false,
+              "value": "#F1FBFB"
+            },
+            {
+              "name": "color/mint/mint-100",
+              "type": "color",
+              "isAlias": false,
+              "value": "#DDFDFD"
+            },
+            {
+              "name": "color/mint/mint-200",
+              "type": "color",
+              "isAlias": false,
+              "value": "#C3F4F3"
+            },
+            {
+              "name": "color/mint/mint-300",
+              "type": "color",
+              "isAlias": false,
+              "value": "#B0E7E3"
+            },
+            {
+              "name": "color/mint/mint-400",
+              "type": "color",
+              "isAlias": false,
+              "value": "#8FD9D5"
+            },
+            {
+              "name": "color/mint/mint-500",
+              "type": "color",
+              "isAlias": false,
+              "value": "#20C5C5"
+            },
+            {
+              "name": "color/mint/mint-600",
+              "type": "color",
+              "isAlias": false,
+              "value": "#09ACAC"
+            },
+            {
+              "name": "color/mint/mint-700",
+              "type": "color",
+              "isAlias": false,
+              "value": "#039595"
+            },
+            {
+              "name": "color/mint/mint-800",
+              "type": "color",
+              "isAlias": false,
+              "value": "#016A6A"
+            },
+            {
+              "name": "color/mint/mint-900",
+              "type": "color",
+              "isAlias": false,
+              "value": "#003F3F"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Color Tokens",
+      "modes": [
+        {
+          "name": "Light Mode",
+          "variables": [
+            {
+              "name": "brand/primary-lighter",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/brand/brand-100"
+              }
+            },
+            {
+              "name": "brand/primary-light",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/brand/brand-200"
+              }
+            },
+            {
+              "name": "brand/primary",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/brand/brand-500"
+              }
+            },
+            {
+              "name": "brand/primary-dark",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/brand/brand-600"
+              }
+            },
+            {
+              "name": "brand/primary-darker",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/brand/brand-800"
+              }
+            },
+            {
+              "name": "surface/surface-body",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/navygray/navygray-50"
+              }
+            },
+            {
+              "name": "surface/surface-primary",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/white/white-1000"
+              }
+            },
+            {
+              "name": "surface/surface-secondary",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/navygray/navygray-50"
+              }
+            },
+            {
+              "name": "surface/surface-secondary-dark",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/navygray/navygray-100"
+              }
+            },
+            {
+              "name": "surface/surface-hover",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/navygray/navygray-50"
+              }
+            },
+            {
+              "name": "surface/surface-disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/navygray/navygray-100"
+              }
+            },
+            {
+              "name": "surface/surface-highlight",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/brand/brand-100"
+              }
+            },
+            {
+              "name": "surface/surface-contrast",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/navygray/navygray-1000"
+              }
+            },
+            {
+              "name": "text/text-primary",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/gray/gray-900"
+              }
+            },
+            {
+              "name": "text/text-secondary",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/gray/gray-600"
+              }
+            },
+            {
+              "name": "text/text-placeholder",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/gray/gray-400"
+              }
+            },
+            {
+              "name": "text/text-disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/gray/gray-300"
+              }
+            },
+            {
+              "name": "text/text-contrast",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/gray/gray-50"
+              }
+            },
+            {
+              "name": "text/text-highlight",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/brand/brand-600"
+              }
+            },
+            {
+              "name": "text/text-error",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/red/red-500"
+              }
+            },
+            {
+              "name": "text/text-success",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/green/green-500"
+              }
+            },
+            {
+              "name": "text/text-warning",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/orange/orange-500"
+              }
+            },
+            {
+              "name": "alert/error",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/red/red-500"
+              }
+            },
+            {
+              "name": "alert/error-light",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/red/red-100"
+              }
+            },
+            {
+              "name": "alert/error-dark",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/red/red-700"
+              }
+            },
+            {
+              "name": "alert/suucess",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/green/green-500"
+              }
+            },
+            {
+              "name": "alert/success-light",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/green/green-100"
+              }
+            },
+            {
+              "name": "alert/success-dark",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/green/green-700"
+              }
+            },
+            {
+              "name": "alert/warning",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/orange/orange-500"
+              }
+            },
+            {
+              "name": "alert/warning-light",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/orange/orange-100"
+              }
+            },
+            {
+              "name": "alert/warning-dark",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/orange/orange-700"
+              }
+            },
+            {
+              "name": "border/border-primary",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/gray/gray-200"
+              }
+            },
+            {
+              "name": "border/border-secondary",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/gray/gray-700"
+              }
+            },
+            {
+              "name": "border/border-highlight",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/brand/brand-500"
+              }
+            },
+            {
+              "name": "border/border-highlight-light",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/brand/brand-200"
+              }
+            },
+            {
+              "name": "border/border-error",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/red/red-500"
+              }
+            },
+            {
+              "name": "border/border-success",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/green/green-500"
+              }
+            },
+            {
+              "name": "border/border-warning",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/orange/orange-500"
+              }
+            },
+            {
+              "name": "shadow/shadow1",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/overlay/overlay-100"
+              }
+            },
+            {
+              "name": "shadow/shadow2",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/overlay/overlay-200"
+              }
+            },
+            {
+              "name": "shadow/shadow3",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/overlay/overlay-300"
+              }
+            },
+            {
+              "name": "com/blue",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/blue/blue-500"
+              }
+            },
+            {
+              "name": "com/blue-light",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/blue/blue-50"
+              }
+            },
+            {
+              "name": "com/blue-dark",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/blue/blue-600"
+              }
+            },
+            {
+              "name": "com/purple",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/purple/purple-500"
+              }
+            },
+            {
+              "name": "com/purple-light",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/purple/purple-50"
+              }
+            },
+            {
+              "name": "com/purple-dark",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/purple/purple-600"
+              }
+            },
+            {
+              "name": "com/orange",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/orange/orange-500"
+              }
+            },
+            {
+              "name": "com/orange-light",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/orange/orange-50"
+              }
+            },
+            {
+              "name": "com/orange-dark",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/orange/orange-600"
+              }
+            },
+            {
+              "name": "com/mint",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/mint/mint-500"
+              }
+            },
+            {
+              "name": "com/mint-light",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/mint/mint-50"
+              }
+            },
+            {
+              "name": "com/mint-dark",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/mint/mint-600"
+              }
+            },
+            {
+              "name": "com/pink",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/pink/pink-500"
+              }
+            },
+            {
+              "name": "com/pink-light",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/pink/pink-50"
+              }
+            },
+            {
+              "name": "com/pink-dark",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/pink/pink-600"
+              }
+            },
+            {
+              "name": "overlay/overlay",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/overlay/overlay-500"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Dark Mode",
+          "variables": [
+            {
+              "name": "brand/primary-lighter",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/brand/brand-900"
+              }
+            },
+            {
+              "name": "brand/primary-light",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/brand/brand-800"
+              }
+            },
+            {
+              "name": "brand/primary",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/brand/brand-500"
+              }
+            },
+            {
+              "name": "brand/primary-dark",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/brand/brand-600"
+              }
+            },
+            {
+              "name": "brand/primary-darker",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/brand/brand-800"
+              }
+            },
+            {
+              "name": "surface/surface-body",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/navygray/navygray-1000"
+              }
+            },
+            {
+              "name": "surface/surface-primary",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/navygray/navygray-900"
+              }
+            },
+            {
+              "name": "surface/surface-secondary",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/navygray/navygray-800"
+              }
+            },
+            {
+              "name": "surface/surface-secondary-dark",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/navygray/navygray-700"
+              }
+            },
+            {
+              "name": "surface/surface-hover",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/navygray/navygray-900"
+              }
+            },
+            {
+              "name": "surface/surface-disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/navygray/navygray-700"
+              }
+            },
+            {
+              "name": "surface/surface-highlight",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/brand/brand-900"
+              }
+            },
+            {
+              "name": "surface/surface-contrast",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/navygray/navygray-50"
+              }
+            },
+            {
+              "name": "text/text-primary",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/white/white-1000"
+              }
+            },
+            {
+              "name": "text/text-secondary",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/gray/gray-300"
+              }
+            },
+            {
+              "name": "text/text-placeholder",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/gray/gray-500"
+              }
+            },
+            {
+              "name": "text/text-disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/gray/gray-700"
+              }
+            },
+            {
+              "name": "text/text-contrast",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/gray/gray-1000"
+              }
+            },
+            {
+              "name": "text/text-highlight",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/brand/brand-400"
+              }
+            },
+            {
+              "name": "text/text-error",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/red/red-400"
+              }
+            },
+            {
+              "name": "text/text-success",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/green/green-400"
+              }
+            },
+            {
+              "name": "text/text-warning",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/orange/orange-400"
+              }
+            },
+            {
+              "name": "alert/error",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/red/red-400"
+              }
+            },
+            {
+              "name": "alert/error-light",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/red/red-900"
+              }
+            },
+            {
+              "name": "alert/error-dark",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/red/red-200"
+              }
+            },
+            {
+              "name": "alert/suucess",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/green/green-400"
+              }
+            },
+            {
+              "name": "alert/success-light",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/green/green-900"
+              }
+            },
+            {
+              "name": "alert/success-dark",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/green/green-200"
+              }
+            },
+            {
+              "name": "alert/warning",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/orange/orange-400"
+              }
+            },
+            {
+              "name": "alert/warning-light",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/orange/orange-900"
+              }
+            },
+            {
+              "name": "alert/warning-dark",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/orange/orange-200"
+              }
+            },
+            {
+              "name": "border/border-primary",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/gray/gray-600"
+              }
+            },
+            {
+              "name": "border/border-secondary",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/gray/gray-200"
+              }
+            },
+            {
+              "name": "border/border-highlight",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/brand/brand-300"
+              }
+            },
+            {
+              "name": "border/border-highlight-light",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/brand/brand-400"
+              }
+            },
+            {
+              "name": "border/border-error",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/red/red-400"
+              }
+            },
+            {
+              "name": "border/border-success",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/green/green-400"
+              }
+            },
+            {
+              "name": "border/border-warning",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/orange/orange-400"
+              }
+            },
+            {
+              "name": "shadow/shadow1",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/white/white-50"
+              }
+            },
+            {
+              "name": "shadow/shadow2",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/white/white-200"
+              }
+            },
+            {
+              "name": "shadow/shadow3",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/white/white-300"
+              }
+            },
+            {
+              "name": "com/blue",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/blue/blue-400"
+              }
+            },
+            {
+              "name": "com/blue-light",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/blue/blue-900"
+              }
+            },
+            {
+              "name": "com/blue-dark",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/blue/blue-200"
+              }
+            },
+            {
+              "name": "com/purple",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/purple/purple-400"
+              }
+            },
+            {
+              "name": "com/purple-light",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/purple/purple-900"
+              }
+            },
+            {
+              "name": "com/purple-dark",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/purple/purple-200"
+              }
+            },
+            {
+              "name": "com/orange",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/orange/orange-400"
+              }
+            },
+            {
+              "name": "com/orange-light",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/orange/orange-900"
+              }
+            },
+            {
+              "name": "com/orange-dark",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/orange/orange-200"
+              }
+            },
+            {
+              "name": "com/mint",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/mint/mint-400"
+              }
+            },
+            {
+              "name": "com/mint-light",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/mint/mint-900"
+              }
+            },
+            {
+              "name": "com/mint-dark",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/mint/mint-200"
+              }
+            },
+            {
+              "name": "com/pink",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/pink/pink-400"
+              }
+            },
+            {
+              "name": "com/pink-light",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/pink/pink-900"
+              }
+            },
+            {
+              "name": "com/pink-dark",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/pink/pink-200"
+              }
+            },
+            {
+              "name": "overlay/overlay",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "color/black/black-700"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Responsive",
+      "modes": [
+        {
+          "name": "Desktop",
+          "variables": [
+            {
+              "name": "Break Point",
+              "type": "number",
+              "isAlias": false,
+              "value": 1280
+            },
+            {
+              "name": "font/font-3xl",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-8xl-64"
+              }
+            },
+            {
+              "name": "font/font-2xl",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-7xl-54"
+              }
+            },
+            {
+              "name": "font/font-xl",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-6xl-48"
+              }
+            },
+            {
+              "name": "font/font-lg",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-3xl-32"
+              }
+            },
+            {
+              "name": "font/font-md",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-2xl-24"
+              }
+            },
+            {
+              "name": "font/font-sm",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-lg-18"
+              }
+            },
+            {
+              "name": "font/font-xs",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-lg-16"
+              }
+            },
+            {
+              "name": "font/font-2xs",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-md-14"
+              }
+            },
+            {
+              "name": "font/font-3xs",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-md-12"
+              }
+            },
+            {
+              "name": "spacing/spacing-4xl",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-8xl-64"
+              }
+            },
+            {
+              "name": "spacing/spacing-3xl",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-7xl-54"
+              }
+            },
+            {
+              "name": "spacing/spacing-2xl",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-6xl-48"
+              }
+            },
+            {
+              "name": "spacing/spacing-xl",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-5xl-40"
+              }
+            },
+            {
+              "name": "spacing/spacing-lg",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-4xl-36"
+              }
+            },
+            {
+              "name": "spacing/spacing-md",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-2xl-24"
+              }
+            },
+            {
+              "name": "spacing/spacing-sm",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-lg-16"
+              }
+            },
+            {
+              "name": "spacing/spacing-xs",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-md-12"
+              }
+            },
+            {
+              "name": "spacing/spacing-2xs",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-sm-8"
+              }
+            },
+            {
+              "name": "spacing/spacing-3xs",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-2xs-4"
+              }
+            },
+            {
+              "name": "spacing/spacing-4xs",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-3xs-2"
+              }
+            },
+            {
+              "name": "icon/icon-2xl",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-8xl-64"
+              }
+            },
+            {
+              "name": "icon/icon-xl",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-6xl-48"
+              }
+            },
+            {
+              "name": "icon/icon-lg",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-4xl-36"
+              }
+            },
+            {
+              "name": "icon/icon-md",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-2xl-24"
+              }
+            },
+            {
+              "name": "icon/icon-sm",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-xl-20"
+              }
+            },
+            {
+              "name": "icon/icon-xs",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-lg-16"
+              }
+            },
+            {
+              "name": "icon/icon-2xs",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-md-12"
+              }
+            },
+            {
+              "name": "radius/radius-xs",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-2xs-4"
+              }
+            },
+            {
+              "name": "radius/radius-sm",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-sm-8"
+              }
+            },
+            {
+              "name": "radius/radius-md",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-md-12"
+              }
+            },
+            {
+              "name": "radius/radius-lg",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-lg-16"
+              }
+            },
+            {
+              "name": "radius/radius-xl",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-2xl-24"
+              }
+            },
+            {
+              "name": "radius/radius-full",
+              "type": "number",
+              "isAlias": false,
+              "value": 1000
+            },
+            {
+              "name": "modal/modal-width-lg",
+              "type": "number",
+              "isAlias": false,
+              "value": 768
+            },
+            {
+              "name": "modal/modal-width-md",
+              "type": "number",
+              "isAlias": false,
+              "value": 576
+            },
+            {
+              "name": "modal/modal-width-sm",
+              "type": "number",
+              "isAlias": false,
+              "value": 256
+            },
+            {
+              "name": "modal/modal-min-height",
+              "type": "number",
+              "isAlias": false,
+              "value": 328
+            }
+          ]
+        },
+        {
+          "name": "Mobile",
+          "variables": [
+            {
+              "name": "Break Point",
+              "type": "number",
+              "isAlias": false,
+              "value": 640
+            },
+            {
+              "name": "font/font-3xl",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-7xl-54"
+              }
+            },
+            {
+              "name": "font/font-2xl",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-6xl-48"
+              }
+            },
+            {
+              "name": "font/font-xl",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-4xl-36"
+              }
+            },
+            {
+              "name": "font/font-lg",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-2xl-28"
+              }
+            },
+            {
+              "name": "font/font-md",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-xl-20"
+              }
+            },
+            {
+              "name": "font/font-sm",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-lg-16"
+              }
+            },
+            {
+              "name": "font/font-xs",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-lg-16"
+              }
+            },
+            {
+              "name": "font/font-2xs",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-md-14"
+              }
+            },
+            {
+              "name": "font/font-3xs",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-md-12"
+              }
+            },
+            {
+              "name": "spacing/spacing-4xl",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-7xl-54"
+              }
+            },
+            {
+              "name": "spacing/spacing-3xl",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-6xl-48"
+              }
+            },
+            {
+              "name": "spacing/spacing-2xl",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-5xl-40"
+              }
+            },
+            {
+              "name": "spacing/spacing-xl",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-3xl-32"
+              }
+            },
+            {
+              "name": "spacing/spacing-lg",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-2xl-24"
+              }
+            },
+            {
+              "name": "spacing/spacing-md",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-lg-16"
+              }
+            },
+            {
+              "name": "spacing/spacing-sm",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-md-12"
+              }
+            },
+            {
+              "name": "spacing/spacing-xs",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-sm-8"
+              }
+            },
+            {
+              "name": "spacing/spacing-2xs",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-xs-6"
+              }
+            },
+            {
+              "name": "spacing/spacing-3xs",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-2xs-4"
+              }
+            },
+            {
+              "name": "spacing/spacing-4xs",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-3xs-2"
+              }
+            },
+            {
+              "name": "icon/icon-2xl",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-6xl-48"
+              }
+            },
+            {
+              "name": "icon/icon-xl",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-3xl-32"
+              }
+            },
+            {
+              "name": "icon/icon-lg",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-3xl-32"
+              }
+            },
+            {
+              "name": "icon/icon-md",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-xl-20"
+              }
+            },
+            {
+              "name": "icon/icon-sm",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-lg-16"
+              }
+            },
+            {
+              "name": "icon/icon-xs",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-md-12"
+              }
+            },
+            {
+              "name": "icon/icon-2xs",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-sm-8"
+              }
+            },
+            {
+              "name": "radius/radius-xs",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-3xs-2"
+              }
+            },
+            {
+              "name": "radius/radius-sm",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-2xs-4"
+              }
+            },
+            {
+              "name": "radius/radius-md",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-sm-8"
+              }
+            },
+            {
+              "name": "radius/radius-lg",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-md-12"
+              }
+            },
+            {
+              "name": "radius/radius-xl",
+              "type": "number",
+              "isAlias": true,
+              "value": {
+                "collection": "Primitives",
+                "name": "size/size-lg-16"
+              }
+            },
+            {
+              "name": "radius/radius-full",
+              "type": "number",
+              "isAlias": false,
+              "value": 1000
+            },
+            {
+              "name": "modal/modal-width-lg",
+              "type": "number",
+              "isAlias": false,
+              "value": 320
+            },
+            {
+              "name": "modal/modal-width-md",
+              "type": "number",
+              "isAlias": false,
+              "value": 320
+            },
+            {
+              "name": "modal/modal-width-sm",
+              "type": "number",
+              "isAlias": false,
+              "value": 256
+            },
+            {
+              "name": "modal/modal-min-height",
+              "type": "number",
+              "isAlias": false,
+              "value": 256
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
